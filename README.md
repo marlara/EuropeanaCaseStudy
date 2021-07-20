@@ -9,6 +9,7 @@ A prototype for the Europeana Case Study
 
 To install lxml:
 `sudo apt-get install python3-lxml`
+
 To install pandas:
 `sudo apt-get install python3-pandas`
 
