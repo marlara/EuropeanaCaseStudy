@@ -19,4 +19,4 @@ Pandas can be installed also via pip
 
 The scripts must be run by command line, following the exact order. The first one need also the name of the file (which is in the folder for convenience) as second argument. The 2nd and 3rd script don't need anything more.
 
-N.B.: the `language_check.csv"` is needed for the third script to work, so be sure to have it in the folder.
+N.B.: the `"language_check.csv"` is needed for the third script to work, so be sure to have it in the folder.
